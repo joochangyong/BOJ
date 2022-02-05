@@ -1,1 +1,1 @@
-# replit_BOJ
+# BOJ
