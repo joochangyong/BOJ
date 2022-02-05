@@ -1,2 +1,8 @@
-language = "python"
-run = "python3 ./BOJ/4단계/1110.py"
+# java
+# run = "java ./Java/2558.java"
+
+# js
+ run = "node ./JavaScript/1000.js"
+
+# python
+# run = "python3 ./4단계/10952.py"
